@@ -10,3 +10,7 @@ handleSumNumber()
 // git checkout branch
 // git checkout -b branch
 // git checkout filename
+
+// git checkout branch
+// git checkout -b branch
+// git checkout filename
